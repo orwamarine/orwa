@@ -1,2 +1,3 @@
-# orwa
-System Designer and developer and general IT support
+# Welcome to your Lovable project
+
+TODO: Document your project here
